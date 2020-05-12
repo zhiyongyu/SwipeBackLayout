@@ -8,8 +8,4 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
-    <style name="SwipeBackLayout">
-        <item name="edge_size">50dip</item>
-    </style>
-
 </resources>

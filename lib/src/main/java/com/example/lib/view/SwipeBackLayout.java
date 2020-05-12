@@ -14,9 +14,9 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.core.view.ViewCompat;
 
-import com.example.swipebacklayout.R;
-import com.example.swipebacklayout.common.SwipeBackListenerActivityAdapter;
-import com.example.swipebacklayout.utils.ViewDragHelper;
+import com.example.lib.R;
+import com.example.lib.common.SwipeBackListenerActivityAdapter;
+import com.example.lib.utils.ViewDragHelper;
 
 import java.util.ArrayList;
 import java.util.List;
