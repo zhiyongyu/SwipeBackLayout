@@ -1,15 +1,15 @@
 package com.example.lib.common;
 
+import android.app.Activity;
 import android.os.Bundle;
 import android.view.View;
 
 import androidx.annotation.Nullable;
-import androidx.appcompat.app.AppCompatActivity;
 
 import com.example.lib.utils.Utils;
 import com.example.lib.view.SwipeBackLayout;
 
-public class SwipeBackActivity extends AppCompatActivity implements SwipeBackActivityBase{
+public class SwipeBackActivity extends Activity implements SwipeBackActivityBase{
 
     private SwipeBackActivityHelper mHelper;
 
