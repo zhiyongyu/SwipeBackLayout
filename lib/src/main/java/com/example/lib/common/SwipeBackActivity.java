@@ -2,14 +2,14 @@ package com.example.lib.common;
 
 import android.app.Activity;
 import android.os.Bundle;
+import android.support.annotation.Nullable;
+import android.support.v7.app.AppCompatActivity;
 import android.view.View;
-
-import androidx.annotation.Nullable;
 
 import com.example.lib.utils.Utils;
 import com.example.lib.view.SwipeBackLayout;
 
-public class SwipeBackActivity extends Activity implements SwipeBackActivityBase{
+public class SwipeBackActivity extends AppCompatActivity implements SwipeBackActivityBase{
 
     private SwipeBackActivityHelper mHelper;
 

@@ -1,11 +1,7 @@
 package com.example.swipebacklayout;
 
 import android.os.Bundle;
-import android.view.View;
-import android.widget.Button;
-
-import androidx.annotation.Nullable;
-import androidx.appcompat.app.AppCompatActivity;
+import android.support.annotation.Nullable;
 
 import com.example.lib.common.SwipeBackActivity;
 
